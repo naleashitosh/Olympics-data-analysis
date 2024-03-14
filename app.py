@@ -194,3 +194,4 @@ if sidemenu == 'Athlete wise Analysis':
     ax = data_fun.lineplot(df)
     ax.update_layout(autosize = False,width = 800, height = 500)
     st.plotly_chart(ax)
+    
