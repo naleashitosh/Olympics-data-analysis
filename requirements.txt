@@ -3,3 +3,6 @@ numpy
 scikit-learn
 streamlit
 seaborn
+plotly.express
+matplotlib.pyplot
+plotly.figure_factory
